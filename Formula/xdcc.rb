@@ -5,8 +5,8 @@ class Xdcc < Formula
 
   desc "Wget-like utility for retrieving files from XDCC bots on IRC"
   homepage "https://github.com/JanGe/xdcc"
-  url "https://hackage.haskell.org/package/xdcc-1.1.2/xdcc-1.1.2.tar.gz"
-  sha256 "d3268b0e1ffc28dabd33ffdc8c5f2e632b114002b5b3cc1d6836faa2d640b35d"
+  url "https://hackage.haskell.org/package/xdcc-1.1.3/xdcc-1.1.3.tar.gz"
+  sha256 "b34b1b10c8fc92347b0713b5b2d1ebb7450984fd7dd284d8501c291e016db49e"
 
   depends_on "ghc" => :build
   depends_on "cabal-install" => :build
